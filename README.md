@@ -1,7 +1,7 @@
-### Pup
-A boilerplate for products.
+### FollowUp
+Simple FollowUp software for local churches. Built by Pastor Estevan Montoya.
 
-[Read the Documentation](http://cleverbeagle.com/pup)
+[Learn More about our ministry tools](http://www.churchtech.co)
 
 ---
 
